@@ -1,0 +1,135 @@
+# Translation of Themes - Rara Magazine in Indonesian
+# This file is distributed under the same license as the Themes - Rara Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 21:58:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Rara Magazine\n"
+
+#: functions.php:399
+msgid " Rara Magazine | Developed By "
+msgstr "Rara Magazine | Diciptakan oleh"
+
+#: functions.php:401
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:401
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: functions.php:401
+msgid " Powered by %s"
+msgstr "Ditenagai oleh %s"
+
+#: functions.php:396
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: functions.php:395
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:291
+msgid "Choose Category"
+msgstr "Pilih Kategori"
+
+#: functions.php:215
+msgid "Slider Category"
+msgstr "Kategori Slider"
+
+#: functions.php:238
+msgid "Enable Box Design"
+msgstr "Aktifkan Desain Kotak"
+
+#: functions.php:178
+msgid "Slider Settings"
+msgstr "Pengaturan Slider"
+
+#: functions.php:131
+msgid "Misc Settings"
+msgstr "Pengaturan Tambahan"
+
+#: functions.php:125
+msgid "Header Settings"
+msgstr "Pengaturan Header"
+
+#: functions.php:96
+msgid "Support Ticket"
+msgstr "Tiket Bantuan"
+
+#: functions.php:65
+msgid "Demo and Documentation"
+msgstr "Demo and Dokumentasi"
+
+#: functions.php:95
+msgid "Theme info"
+msgstr "Info tema"
+
+#: functions.php:94
+msgid "Theme Demo"
+msgstr "Demo Tema"
+
+#: functions.php:93
+msgid "Theme Documentation"
+msgstr "Dokumentasi Tema"
+
+#: functions.php:140 functions.php:149 functions.php:336
+msgid "Breaking News"
+msgstr "Berita Terbaru"
+
+#: functions.php:100
+msgid "About Rara Magazine"
+msgstr "Tentang Rara Magazine"
+
+#: functions.php:97
+msgid "More WordPress Themes"
+msgstr "Tema WordPress lebih"
+
+#: functions.php:93 functions.php:94 functions.php:95 functions.php:96
+#: functions.php:97
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: functions.php:394
+msgid "&copy;&nbsp;"
+msgstr "&copy;&nbsp;"
+
+#: functions.php:256
+msgid "Choose the layout for banner category."
+msgstr "Pilih layout untuk kategori banner."
+
+#: functions.php:255
+msgid "Banner Category Layout"
+msgstr "Layout Kategori Banner"
+
+#: functions.php:216
+msgid "Choose slider category for header."
+msgstr "Pilih kategori slider untuk header."
+
+#: functions.php:195
+msgid "Enable Slider in Home Page"
+msgstr "Aktifkan Slider di Halaman Beranda"
+
+#: functions.php:169
+msgid "Breaking News Category"
+msgstr "Kategori Breaking News"
+
+#: functions.php:150
+msgid "Leave blank to display Breaking News Category Name"
+msgstr "Kosongkan untuk menampilkan Nama Kategori Breaking News"
+
+#. Author of the theme
+#: functions.php:400
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Author URI of the theme
+#: functions.php:400
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
